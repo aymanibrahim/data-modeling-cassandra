@@ -19,23 +19,26 @@ event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
 ```
 
-- example of single file:
-![](event_datafile_new.jpg)
+- example of a single file 2018-11-01-events.csv
+
+![](2018-11-01-events.png)
 
 ## event_datafile_new.csv
-
-### The event_datafile_new.csv file contains: 
-- artist 
-- firstName of user
-- gender of user
-- item number in session
-- last name of user
-- length of the song
-- level (paid or free song)
-- location of the user
-- sessionId
-- song title
-- userId
+- smaller event data csv file used to insert data into the Apache Cassandra tables
+- the file contains: 
+    - artist 
+    - firstName of user
+    - gender of user
+    - item number in session
+    - last name of user
+    - length of the song
+    - level (paid or free song)
+    - location of the user
+    - sessionId
+    - song title
+    - userId
+    
+![](event_datafile_new.jpg)
 
 # Data model
 
@@ -107,6 +110,6 @@ event_data/2018-11-09-events.csv
 
 # Data Engineering projects
 
-## [Data Modeling with Postgres](https://github.com/aymanibrahim/data-modeling-postgres)
-## [Data Modeling with Cassandra](https://github.com/aymanibrahim/data-modeling-cassandra)
+- ## [Data Modeling with Postgres](https://github.com/aymanibrahim/data-modeling-postgres)
+- ## [Data Modeling with Cassandra](https://github.com/aymanibrahim/data-modeling-cassandra)
 
