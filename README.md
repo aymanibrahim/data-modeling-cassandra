@@ -103,5 +103,10 @@ event_data/2018-11-09-events.csv
 ## etl.ipynb 
 -  creates the data file csv that will be used for Apache Casssandra tables.
 - loads processed records into relevant tables 
-- tests by running SELECT statements after running the queries on the database
+- tests by running SELECT statements after running the queries on the database.
+
+# Data Engineering projects
+
+## [Data Modeling with Postgres](https://github.com/aymanibrahim/data-modeling-postgres)
+## [Data Modeling with Cassandra](https://github.com/aymanibrahim/data-modeling-cassandra)
 
