@@ -62,7 +62,7 @@ event_data/2018-11-09-events.csv
    
 ## Query 2
 
-### Give me the artist, song title and song's length in the music app history that was heard during sessionId = 338, and itemInSession = 4
+### Give me only the following: name of artist, song (sorted by itemInSession) and user (first and last name) for userid = 10, sessionid = 182
 
 ### users  table
 
