@@ -7,7 +7,7 @@
 ![](data_model_cassandra.png)
 
 # Data
-Data for song and user activities is in the _event_data_ directory as CSV files.
+Data for song and user activities are in the _event_data_ directory as CSV files.
 
 ## event_data 
 - files are partitioned by date
