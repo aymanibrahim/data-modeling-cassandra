@@ -10,7 +10,7 @@
 Data for song and user activities is in the _event_data_ directory as CSV files.
 
 ## event_data 
-- files partitioned by date
+- files are partitioned by date
 - each file is in CSV format 
 - example of file paths to two files:
 
