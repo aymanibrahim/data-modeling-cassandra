@@ -113,4 +113,4 @@ event_data/2018-11-09-events.csv
 - ## [Data Modeling with Postgres](https://github.com/aymanibrahim/data-modeling-postgres)
 - ## [Data Modeling with Cassandra](https://github.com/aymanibrahim/data-modeling-cassandra)
 - ## [Data Warehouse with Redshift](https://github.com/aymanibrahim/data-warehouse-redshift) 
-
+- ## [Data Lake with Spark](https://github.com/aymanibrahim/data-lake-spark)
